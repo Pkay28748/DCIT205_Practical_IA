@@ -1,0 +1,23 @@
+{
+  "name": "practical_ia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "patient.js",
+  "scripts": {
+    "start": "node patient.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pkay28748/DCIT205_Practical_IA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pkay28748/DCIT205_Practical_IA/issues"
+  },
+  "homepage": "https://github.com/Pkay28748/DCIT205_Practical_IA#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3"
+  }
+}
